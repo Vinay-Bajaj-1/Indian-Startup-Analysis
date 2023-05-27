@@ -16,3 +16,13 @@ Libraries used:
 4. Matlpotlib
 5. re
 6. operator
+
+
+Conclusion from Analysis:
+1. The trend of number of startups peeked in 2016 and had been declining since.
+2. NCR has the maximum number of startups followed by Bangalore and Mumbai
+3. Sequoia Capital has invested maximum times (including repetitive investment in the same company)
+4. Accel Partners has invested maximum times (in different companies)
+5. Most of the time Investment Type was Private Equity (~98%).
+6. Indian Angel Investor  invested in maximum number of companies through Crowd and Seed Funding
+7. Accel Partners Invested in maximum number of companies through private equity.
