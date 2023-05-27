@@ -13,7 +13,7 @@ Libraries used:
 1. Pandas
 2. Numpy
 3. Seaborn
-4. Matlpotlib
+4. Matlplotlib
 5. re
 6. operator
 
